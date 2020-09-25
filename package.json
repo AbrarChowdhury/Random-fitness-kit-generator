@@ -1,0 +1,14 @@
+{
+  "name": "fitnesstipapi",
+  "version": "1.0.0",
+  "description": "this api returns randon fitness qoute",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abrar shams chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
